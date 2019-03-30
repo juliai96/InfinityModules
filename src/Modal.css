@@ -1,0 +1,27 @@
+.Modal {
+    color: black;
+}
+
+.Title {
+    color: yellow;
+}
+
+.Body {
+    color: blue;
+}
+
+.Footer {
+    color: red;
+}
+
+.Close {
+    color: green;
+}
+
+.Close:hover {
+    color: white;
+}
+
+.Hidden {
+    display: none !important;
+}
